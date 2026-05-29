@@ -1,0 +1,4 @@
+# See repo-root .gitignore for shared rules
+bin/
+obj/
+**/Content/obj/
